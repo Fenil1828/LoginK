@@ -158,7 +158,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     uid: user.uid
                   }));
                   
-                  window.location.href = "https://krupixi-k38.vercel.app/";
+                  window.location.href = "https://new-chatbot-seven.vercel.app/";
                 });
               })
               .catch((error) => {
